@@ -16,3 +16,8 @@ Character Recognition utilizes image processing technologies to convert characte
 There are 206,799 first names and 207,024 surnames in total. The data was divided into a training set (331,059), testing set (41,382), and validation set (41,382) respectively.
 
 Link: https://www.kaggle.com/landlord/handwriting-recognition 
+
+## Result 
+
+Correct characters predicted : 85.74%
+Correct words predicted      : 71.57%
