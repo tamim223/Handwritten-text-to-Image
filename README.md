@@ -19,5 +19,5 @@ Link: https://www.kaggle.com/landlord/handwriting-recognition
 
 ## Result 
 
-Correct characters predicted : 85.74%
+Correct characters predicted : 85.74%<br>
 Correct words predicted      : 71.57%
