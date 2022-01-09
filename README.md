@@ -7,7 +7,8 @@ Here I seek to classify individual words so the word can be converted into a dig
 
 ![Diagram](https://media.discordapp.net/attachments/764117206350823464/929590539505008650/HTR_Diagram.png?width=860&height=598)
 
-##Dataset
+## Dataset
+
 This dataset consists of more than four hundred thousand handwritten names collected through charity projects.
 
 Character Recognition utilizes image processing technologies to convert characters on scanned documents into digital forms. It typically performs well in machine-printed fonts. However, it still poses difficult challenges for machines to recognize handwritten characters, because of the huge variation in individual writing styles.
